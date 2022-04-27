@@ -1,6 +1,7 @@
 #Develop an RSA algorithm encryption/decryption system. You can choose which type of system to build.
 
 ##Features to implement:
+
 3 points - input of initial data: two primary numbers p and q, initial plaintext x.✅
 
 6 points - finding the parameters required for encryption/decryption algorithms. Public key finding, Euclidean algorithm implementation, Euclidean advanced algorithm implementation.✅
