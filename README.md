@@ -12,4 +12,4 @@
 
 2 points - read encrypted plaintext x from the file system or database.✅
  
-5 points - decrypt encrypted plaintext x. The decryption method requires an additional method that has n to find the two prime numbers. When have the primes numbers system can find the value of Φ[n]. Having Φ[n] and e, can compute the private key. 
+5 points - decrypt encrypted plaintext x. The decryption method requires an additional method that has n to find the two prime numbers. When have the primes numbers system can find the value of Φ[n]. Having Φ[n] and e, can compute the private key. ✅
